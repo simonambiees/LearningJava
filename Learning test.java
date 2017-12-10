@@ -24,6 +24,7 @@ class Dog{
       spike.run(45);
       int spikeAge = spike.getAge();
       System.out.println(spikeAge);
+      System.out.println("i love github");
       }
   
   }
